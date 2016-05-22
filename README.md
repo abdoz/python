@@ -1,2 +1,2 @@
-# python-
-new to python will add programs weekly
+# python
+will add simple programs weekly to make you understand python
