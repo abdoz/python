@@ -16,7 +16,7 @@ while num>0:
 	# keep decreasing num1 i.e length to make a reverse number for ex  123 will be 3*100+2*10+3*1 that is 321 
 	num1=num1-1
 	num=int(num/10)
-#compare the number and reversed number if both are equal the number is palindrome
+#compare the number and reversed number if both are equal then the number is palindrome
 if cons==i:
 	print("palindrome")
 else:
