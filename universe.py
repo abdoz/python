@@ -1,3 +1,4 @@
+#spoj problem 1
 #print("input:")
 i=0
 arr={}
