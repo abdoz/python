@@ -1,2 +1,2 @@
 # python
-will add simple programs weekly to make you understand python
+contains simple programs,spoj probelem solutions for beginners in python
