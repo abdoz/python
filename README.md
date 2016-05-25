@@ -1,2 +1,2 @@
 # python
-contains simple programs,spoj probelem solutions for beginners in python
+contains simple programs,spoj problem solutions for beginners in python
