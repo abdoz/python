@@ -1,3 +1,4 @@
+#number of test cases
 test_cases=int(input())
 i=0
 k=0
@@ -6,6 +7,7 @@ if test_cases<=10:
 	temp=test_cases
 	while test_cases!=0:
 		number=input()
+		#seprating number with space
 		numbers=number.split(' ')
 		for num in numbers:
 			allnum[i]=num
@@ -14,6 +16,7 @@ if test_cases<=10:
 		test_cases=test_cases-1
 	flag=0
 	print("\n")
+	#prime algo
 	while temp!=0:
 		num1=int(allnum[k])
 		k=k+1
