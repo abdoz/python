@@ -21,7 +21,7 @@ if test_cases<=10:
 		k=k+1
 		num2=int(allnum[k])
 		k=k+1
-		for i in range(1,num2+1):
+		for i in range(num1,num2+1):
 			allnumber[i]=True
 		for s in range(2,int(math.sqrt(num2))+1):
 			for j in range(s*s,num2+1,s):
