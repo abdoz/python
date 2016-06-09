@@ -1,4 +1,3 @@
-#first function in python yayy..:P
 import math
 def square(num):
 	return math.pow(num,2)
